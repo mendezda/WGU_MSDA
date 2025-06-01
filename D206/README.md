@@ -6,3 +6,21 @@ Data Cleaning continues building proficiency in the data analytics life cycle wi
 - Predict potential obstacles in data analysis based on data quality
 - Prepare data for analysis to address organizational needs
 - Write reusable code to manipulate and clean data
+
+## Summary
+This notebook demonstrates structured data preprocessing and visualization techniques, including conditional logic for categorical features.
+
+## Tools Used
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `numpy`
+- `sklearn`'s `decomposition`
+
+## Key Results
+- Applied conditional labeling and segmentation.
+- Explored variable distributions across categories.
+- Prepared the data for future classification or clustering.
+
+
+
