@@ -32,10 +32,6 @@ How can a Tableau dashboard help visualize customer churn and support contract-r
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/drew.mendez/viz/D210_PA_MendezD_Task1/D210RepresentationandReporting)
 
-- Two interactive dashboards:
-  - Churn overview with maps, charts, and filters
-  - Contract analysis by tenure, monthly charge, and gender
-
 ## Results
 
 - WGU Telecom shows lower churn than the competitor
