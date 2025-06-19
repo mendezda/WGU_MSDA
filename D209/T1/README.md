@@ -41,4 +41,10 @@ The analysis focuses on building a predictive model and identifying key features
 - **ROC AUC Score**: 0.9375  
 - **Top Features**: `Tenure`, `MonthlyCharge`, `Contract_Month-to-month`, `StreamingTV`, `Multiple`, `InternetService_Fiber Optic`
 
-- Confusion Matrix:
+
+## Notes
+
+- Model shows strong generalization and excellent discrimination (AUC = 0.9375)
+- Limitation: Outliers were retained and could affect performance
+- Recommended next step: Use churn-associated features (e.g., service plans, streaming options) to target at-risk customers with retention offers
+
