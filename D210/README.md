@@ -13,8 +13,6 @@ Focuses on storytelling, visualization, and communication of data-driven insight
 
 This project uses an internal churn dataset and an external competitor dataset to create an interactive Tableau dashboard. The dashboard helps stakeholders monitor churn patterns and contract trends across two telecom providers.
 
-**Research Question**:  
-How can a Tableau dashboard help visualize customer churn and support contract-related insights?
 
 ## Tools Used
 
