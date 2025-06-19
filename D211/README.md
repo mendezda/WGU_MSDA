@@ -12,9 +12,6 @@ Expands on foundational SQL skills by introducing advanced operations, data aggr
 
 This project combines two telecom churn datasets—one from WGU and one from Maven Analytics—to create an interactive Tableau dashboard comparing churn trends across companies.
 
-**Research Question**:  
-Can a Tableau dashboard, powered by SQL and joined datasets, be used to visualize churn trends and identify contract-based retention opportunities?
-
 The dashboard provides stakeholders with insights into churn patterns by gender, tenure, and contract type. It is designed to help monitor and compare churn metrics against competitors over time.
 
 ## Tools Used
